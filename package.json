@@ -1,0 +1,22 @@
+{
+  "name": "api-playwright-utils",
+  "version": "1.0.0",
+  "description": "This is custom framework for running API tests with playwright with Custom Utils",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "api",
+    "playwright"
+  ],
+  "author": "Alvi Tazwar",
+  "license": "GNU",
+  "devDependencies": {
+    "@faker-js/faker": "^6.1.2",
+    "@playwright/test": "^1.40.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "e": "^0.2.2",
+    "faker-js": "^1.0.0"
+  }
+}
